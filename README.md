@@ -1,4 +1,4 @@
-### Hi there 👋, Hey my name is Haisum Usman
+### Hi there 👋, this is Haisum Usman
 #### Web Application Specialist
 More than 7+ years of experience in software architecture and database designs as an individual and team lead, having high degree of expertise in developing cutting edge web applications with sharp analysis.
 
@@ -12,7 +12,7 @@ Currently working as a Senior Software Engineer at [#EMPGLABS]([url](https://www
 
 **Skills** 
 
-[Node Js](https://g.co/kgs/zVJ7zQ) , [JavaScript](https://g.co/kgs/pEjdCE), [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png' alt='github' height='40'>](https://g.co/kgs/R4ET8j), TypeScript HTML5 React CSS3 Sass TailwindCSS Bootstrap Material UI Redux Webpack NodeJS Express MongoDB Firebase Heroku Figma Web3Js
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png' alt='github' height='40'>](https://g.co/kgs/zVJ7zQ) , [<img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' alt='github' height='40'>](https://g.co/kgs/pEjdCE), [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png' alt='github' height='40'>](https://g.co/kgs/R4ET8j), TypeScript HTML5 React CSS3 Sass TailwindCSS Bootstrap Material UI Redux Webpack NodeJS Express MongoDB Firebase Heroku Figma Web3Js
 
 - 🔭 I’m currently working at Node JS
 - 🌱 I’m currently learning Architectural challenges and solutions 
