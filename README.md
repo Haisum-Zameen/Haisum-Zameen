@@ -12,7 +12,7 @@ Currently working as a Senior Software Engineer at [#EMPGLABS]([url](https://www
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on https://www.empglabs.com/ 
+- 🔭 I’m currently working at Node JS
 - 🌱 I’m currently learning Architectural challenges and solutions 
 - 👯 I’m looking to collaborate on Big Scale Web Applications 
 - 🤔 I’m looking for help with Cloud Computing 
