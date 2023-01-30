@@ -4,13 +4,15 @@ More than 7+ years of experience in software architecture and database designs a
 
 Lucky enough 😊 to start career with a project based company [GillaneSolutions]([url](https://www.gillanesolutions.com/)) which provided the opportunity to explore multiple PHP frameworks and CMS,s.  I must say Quite a hit 🙃 in the start but at the end dozen of learning,s. 
  
-Currently working as a Senior Software Engineer at [#EMPGLABS]([url](https://www.empglabs.com/)). Looking after: 
+Currently working as a Senior Software Engineer at [#EMPGLABS]([url](https://www.empglabs.com/)). 
+
+**Specialized in**
 1. Lead Management System 
 2. CRM
 3. Micro-services architecture
 
 
-**Skills** 
+**Skills**
 
 
 [<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg' alt='Node.js' width="36" height="36" >](https://g.co/kgs/k37FP8)
