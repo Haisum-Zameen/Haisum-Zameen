@@ -12,7 +12,19 @@ Currently working as a Senior Software Engineer at [#EMPGLABS]([url](https://www
 
 **Skills** 
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png' alt='github' height='40'>](https://g.co/kgs/zVJ7zQ)[<img src='https://miro.medium.com/max/1400/1*R1mfXLP9edcArZXwmGbGag.jpeg' alt='github' height='40'>](https://g.co/kgs/Q5ztey)[<img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' alt='github' height='40'>](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png), [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png' alt='github' height='40'>](https://g.co/kgs/R4ET8j)[<img src='https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png' alt='github' height='40'>](https://g.co/kgs/Wsu35a)TypeScript HTML5 React CSS3 Sass TailwindCSS Bootstrap Material UI Redux Webpack NodeJS Express MongoDB Firebase Heroku Figma Web3Js
+
+[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg' width="36" height="36" alt="JavaScript">](https://g.co/kgs/sse6jh)
+[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg' alt='Python' width="36" height="36" >](https://g.co/kgs/wZnEUx)
+[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg' alt='React' width="36" height="36" >](https://g.co/kgs/ks2JEP)
+[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg' alt='Bootstrap' width="36" height="36" >](https://g.co/kgs/UGvQVv)
+[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg' alt='Node.js' width="36" height="36" >](https://g.co/kgs/k37FP8)
+[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg' alt='Express.js' width="36" height="36" >](https://g.co/kgs/8BYcfu)
+[<img src='https://img.stackshare.io/service/6191/oDM0j5q0_400x400.png' alt='Objection Js' width="36" height="36">](https://vincit.github.io/objection.js/)
+[<img src='https://miro.medium.com/max/1035/1*k0QFBnA2btydUOh7Lwc4wQ.png' alt='Knex Js' width="36" height="36" >](https://knexjs.org/)
+[<img src='https://res.cloudinary.com/practicaldev/image/fetch/s--4TiiDwdC--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/wd83498n8oakhg4ch6rv.png' alt='Sequelize Js' width="36" height="36" >](https://sequelize.org/)
+[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg' alt='Mongo' width="36" height="36" >](https://g.co/kgs/BLwnnW)
+[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg' alt='FireBase' width="36" height="36" >](https://g.co/kgs/TKCnJe)
+[<img src='https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg' alt='Heroku' width="36" height="36" >](https://www.heroku.com/)
 
 - 🔭 I’m currently working at Node JS
 - 🌱 I’m currently learning Architectural challenges and solutions 
