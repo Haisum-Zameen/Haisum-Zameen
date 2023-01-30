@@ -10,7 +10,9 @@ Currently working as a Senior Software Engineer at [#EMPGLABS]([url](https://www
 3. Micro-services architecture
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+**Skills** 
+
+[Node Js](https://g.co/kgs/zVJ7zQ) , [JavaScript](https://g.co/kgs/pEjdCE), [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png' alt='github' height='40'>](https://g.co/kgs/R4ET8j), TypeScript HTML5 React CSS3 Sass TailwindCSS Bootstrap Material UI Redux Webpack NodeJS Express MongoDB Firebase Heroku Figma Web3Js
 
 - 🔭 I’m currently working at Node JS
 - 🌱 I’m currently learning Architectural challenges and solutions 
@@ -20,6 +22,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 📫 How to reach me: uhaisum@gmail.com | +92-330-4058010 
 - ⚡ Fun fact: Love Construction Mega Projects 
 
+**Socialize With Me**
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Haisum-Zameen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/haisum-usman//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Usman.Haisum/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/haisumusman//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Haisum92)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/4021959/haisum-usman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.empglabs.com/)  
 
