@@ -10,6 +10,7 @@ Currently working as a Senior Software Engineer at [#EMPGLABS]([url](https://www
 1. Lead Management System 
 2. CRM
 3. Micro-services architecture
+4. Big Data
 
 
 **Skills**
