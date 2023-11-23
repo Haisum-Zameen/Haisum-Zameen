@@ -4,7 +4,7 @@ More than 8+ years of experience in software architecture and database designs a
 
 Lucky enough 😊 to start career with a project based company [GillaneSolutions](https://www.gillanesolutions.com) which provided the opportunity to explore multiple PHP frameworks and CMS,s.  I must say Quite a hit 🙃 in the start but at the end dozen of learning,s. 
  
-Currently working as a Senior Software Engineer at [#EMPGLABS](https://www.empglabs.com). 
+Currently working as a Principal Software Engineer at [#EMPGLABS](https://www.empglabs.com). 
 
 **Specialized in**
 1. Lead Management System 
