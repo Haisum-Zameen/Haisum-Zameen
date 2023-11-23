@@ -1,6 +1,6 @@
 ### Hi there 👋, this is Haisum Usman
 #### Web Application Specialist
-More than 7+ years of experience in software architecture and database designs as an individual and team lead, having high degree of expertise in developing cutting edge web applications with sharp analysis.
+More than 8+ years of experience in software architecture and database designs as an individual and team lead, having high degree of expertise in developing cutting edge web applications with sharp analysis.
 
 Lucky enough 😊 to start career with a project based company [GillaneSolutions](https://www.gillanesolutions.com) which provided the opportunity to explore multiple PHP frameworks and CMS,s.  I must say Quite a hit 🙃 in the start but at the end dozen of learning,s. 
  
